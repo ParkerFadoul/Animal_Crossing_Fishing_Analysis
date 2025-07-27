@@ -59,7 +59,6 @@ Despite these caveats, the data is reliable for uncovering shadow size trends an
 
 There are a few areas I'd like to continue refining in this project:
 
-- **Evening out sample sizes**: I’m actively fishing to increase the nighttime sample size to match the daytime dataset, for more balanced comparisons.
 - **Dashboard visibility**: I’m exploring layout and formatting changes to fit both the Daytime and Nighttime Probability tables in the visible frame without scrolling.
 - **Formula optimization**: Some calculations could be made more efficient by switching from manual row-based formulas to `SUMIF`, `COUNTIF`, or array-based functions for better scalability and clarity.
 
