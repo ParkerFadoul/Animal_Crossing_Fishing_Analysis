@@ -32,7 +32,7 @@ This project demonstrates skills in:
 
 ### 📉 Data Quality & Limitations
 
-This project analyzes approximately **3,000 fish** caught in *Animal Crossing: New Horizons* during July (Northern Hemisphere).
+This project analyzes approximately **3,200 fish** caught in *Animal Crossing: New Horizons* during July (Northern Hemisphere).
 
 - **~1,600 fish** were caught during the **day** (9am–4pm)  
 - **~1,600 fish** were caught during the **night** (4pm–9am)  
@@ -49,7 +49,7 @@ This analysis is based on manually collected data during July gameplay in *Anima
 - **Rare fish not encountered**: Some fish (e.g., Mahi-Mahi) were not caught during sampling, which may bias shadow size distributions and Bell averages.
 - **Pier fish grouped with ocean fish**: For simplicity, fish caught from the pier were categorized as ocean fish.
 - **Rain not accounted for**: Rain, which influences fish behavior, were not recorded.
-- **Availability-based sampling**: Every fish encountered was caught, meaning the data reflects availability rather than randomness.
+- **Availability-based sampling**: Every fish encountered was caught, meaning the data reflects availability rather than randomness. Although I tried to catch every fish I could.
 
 Despite these caveats, the data is reliable for uncovering shadow size trends and Bells-per-cast profitability.
 
